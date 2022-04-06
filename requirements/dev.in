@@ -1,0 +1,10 @@
+-c pins.txt
+-c requirements.txt
+-r requirements.txt
+
+responses
+coverage
+flake8
+pre-commit
+tox
+pip-tools
